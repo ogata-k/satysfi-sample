@@ -8,7 +8,7 @@
 @import: styles/local
 
 document (|
-  title = {\SATySFi;概説};
+  title = {\SATySFi;概説 Sample};
   author = {Takashi SUWA};
   show-title = true;
   show-toc = true;

@@ -23,7 +23,7 @@ workspace="$projectRoot/workspace"
 
 # package info
 author=ogata-k
-projectName=satysfi_project_template
+projectName=satysfi_sample
 
 # docker info
 dockerTag=${satysfiVersion:-0.0.6}
@@ -33,5 +33,5 @@ dockerFileName=Dockerfile
 
 # $workspace's files
 mainSrcFileName=main.saty
-mainPdfFileName=satysfi-demo.pdf
+mainPdfFileName=satysfi-sample.pdf
 
